@@ -3,7 +3,7 @@
 A reusable **InfoBox component** built with **React + TypeScript**. This component displays a **title, description, and a button** that links to an external URL. It is responsive, easy to customize, and includes a hover effect on the button.
 
 # Features
-- Reusable: Accepts dynamic props for flexibility.
+- **Reusable**: Accepts dynamic props for flexibility.
 - **Responsive**: Works on both mobile and desktop screens.
 - **Minimal Styling**: Uses inline styles but can be customized easily.
 - **External Links**: Button opens the link in a new tab.
@@ -18,5 +18,5 @@ A reusable **InfoBox component** built with **React + TypeScript**. This compone
 
 ###  Clone the Repository
 ```sh
-git clone https://github.com/your-username/infobox.git
+git clone https://github.com/esyepfred2000@gmail.com/infobox.git
 cd infobox
